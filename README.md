@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Embedded Linux**
 
-- 👨‍💻 All of my projects are available at [brucelinweb.com](brucelinweb.com)
+- 👨‍💻 All of my projects are available at [brucelinweb.com](https://brucelinweb.com)
 
 - 📫 How to reach me **brucelin90620@gmail.com**
 
-- 📄 Know about my experiences [brucelinweb.com/resume](brucelinweb.com/resume)
+- 📄 Know about my experiences [brucelinweb.com/resume](https://brucelinweb.com/assets/pdf/bruce_lin_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
