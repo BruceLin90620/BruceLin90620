@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jung Peng "Bruce" Lin</h1>
 <h3 align="center">I am a Master’s student at Purdue University with a focus on embedded systems. This interest is built on extensive hands-on robotics experience, where I developed complete autonomous navigation systems for industrial partners, leading projects from simulation all the way to final hardware deployment.</h3>
 
-- 🔭 I’m currently working on [imx6ull-driver-lab](https://github.com/BruceLin90620/imx6ull-driver-lab.git)
-
 - 🌱 I’m currently learning **Embedded Linux**
 
 - 👨‍💻 All of my projects are available at [brucelinweb.com](https://brucelinweb.com)
